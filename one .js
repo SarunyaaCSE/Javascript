@@ -1,0 +1,34 @@
+/*This is my first javascript program*/
+/*The datatypes in java are undefined,null,boolean,string,symbol,number,object*/
+var i="hello world";
+console.log(i);
+var a=10;
+var b="I am";
+a=a+1;
+b=b+" String";
+console.log(a,b);
+var sum=26+12;
+var diff=100-50;
+var pro=15*21;
+var div=66/11;
+console.log(sum);
+console.log(diff);
+console.log(pro);
+console.log(div);
+var num=0.0009;
+var num1=112.35*53.01;
+var num2=123.45/321.65;
+var rem=36%5;
+console.log(num);
+console.log(num1);
+console.log(num2);
+console.log(rem);
+var c=10;
+c+=1;
+console.log(c);
+c-=1;
+console.log(c);
+c*=10;
+console.log(c);
+c/=10;
+console.log(c);
